@@ -33,7 +33,7 @@
       "Properties": {
         "ContainerDefinitions": [{
           "Name": "build",
-          "Image": "lambci/ecs",
+          "Image": "slajax/lambci",
           "Memory": 450,
           "LogConfiguration": {
             "LogDriver": "awslogs",
