@@ -11,7 +11,7 @@
   },
   "Mappings": {
     "EcsAmisByRegion": {
-      "us-east-1": {"ami": "ami-275ffe31"},
+      "us-east-1": {"ami": "ami-ef49f695"},
       "us-east-2": {"ami": "ami-62745007"},
       "us-west-1": {"ami": "ami-689bc208"},
       "us-west-2": {"ami": "ami-62d35c02"},
